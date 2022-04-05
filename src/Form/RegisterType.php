@@ -47,7 +47,7 @@ class RegisterType extends AbstractType
                         'max' => 255,
                         'min' => 4,
                         'maxMessage' => 'Votre mot de passe ne peut dépasser {{ limit }} caractères', 
-                        'minMessage' => 'Votre mot de passe ne peut dépasser {{ limit }} caractères',                        
+                        'minMessage' => 'Votre mot de passe est inférieur à {{ limit }} caractères',                        
                     ]),
                 ],
             ])
