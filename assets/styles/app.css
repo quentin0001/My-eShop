@@ -5,9 +5,18 @@
 }
 
 body, nav {
-    background-color: rgb(139, 205, 224)!important;
+    background-color: rgb(163, 221, 237)!important;
 }
 
 .navbar-collapse{
     background-color: blanchedalmond !important;
+}
+
+.polo{
+    text-shadow: rgb(10, 48, 171) 1px 0 10px !important;
+}
+
+.pala a:hover {
+    color:aliceblue;
+    border-bottom: 1px solid aliceblue ;
 }
